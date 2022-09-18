@@ -12,11 +12,11 @@ date
 echo
 sleep 2
 echo
-echo $white"["$green"1"$white"]"$red"Google"
+echo $white"["$green"1"$white"]" $red"Google"
 echo
-echo $white"["$green"2"$white"]"$red"CloudFlare"
+echo $white"["$green"2"$white"]" $red"CloudFlare"
 echo
-echo $white"["$green"3"$white"]"$red"Keluar"
+echo $white"["$green"3"$white"]" $red"Keluar"
 echo
 echo $cyan
 read -p "Pilih Mana : " bro
